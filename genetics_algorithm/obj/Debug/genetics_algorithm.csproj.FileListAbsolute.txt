@@ -1,0 +1,38 @@
+C:\Users\ahayd\Desktop\dönem 6\Yapay Zeka\genetics_algorithm\genetics_algorithm\bin\Debug\genetics_algorithm.exe.config
+C:\Users\ahayd\Desktop\dönem 6\Yapay Zeka\genetics_algorithm\genetics_algorithm\bin\Debug\genetics_algorithm.exe
+C:\Users\ahayd\Desktop\dönem 6\Yapay Zeka\genetics_algorithm\genetics_algorithm\bin\Debug\genetics_algorithm.pdb
+C:\Users\ahayd\Desktop\dönem 6\Yapay Zeka\genetics_algorithm\genetics_algorithm\obj\Debug\genetics_algorithm.csproj.AssemblyReference.cache
+C:\Users\ahayd\Desktop\dönem 6\Yapay Zeka\genetics_algorithm\genetics_algorithm\obj\Debug\genetics_algorithm.Form1.resources
+C:\Users\ahayd\Desktop\dönem 6\Yapay Zeka\genetics_algorithm\genetics_algorithm\obj\Debug\genetics_algorithm.Properties.Resources.resources
+C:\Users\ahayd\Desktop\dönem 6\Yapay Zeka\genetics_algorithm\genetics_algorithm\obj\Debug\genetics_algorithm.csproj.GenerateResource.cache
+C:\Users\ahayd\Desktop\dönem 6\Yapay Zeka\genetics_algorithm\genetics_algorithm\obj\Debug\genetics_algorithm.csproj.CoreCompileInputs.cache
+C:\Users\ahayd\Desktop\dönem 6\Yapay Zeka\genetics_algorithm\genetics_algorithm\obj\Debug\genetics_algorithm.exe
+C:\Users\ahayd\Desktop\dönem 6\Yapay Zeka\genetics_algorithm\genetics_algorithm\obj\Debug\genetics_algorithm.pdb
+C:\Users\ahayd\Desktop\dönem 6\Yapay Zeka\genetics_algorithm\genetics_algorithm\bin\Debug\MathNet.Numerics.dll
+C:\Users\ahayd\Desktop\dönem 6\Yapay Zeka\genetics_algorithm\genetics_algorithm\bin\Debug\System.ValueTuple.dll
+C:\Users\ahayd\Desktop\dönem 6\Yapay Zeka\genetics_algorithm\genetics_algorithm\bin\Debug\MathNet.Numerics.xml
+C:\Users\ahayd\Desktop\dönem 6\Yapay Zeka\genetics_algorithm\genetics_algorithm\bin\Debug\System.ValueTuple.xml
+C:\Users\ahayd\Desktop\dönem 6\Yapay Zeka\genetics_algorithm\genetics_algorithm\obj\Debug\genetics_algorithm.csproj.CopyComplete
+C:\Users\ahayd\Desktop\dönem 6\Yapay Zeka\genetics_algorithm\genetics_algorithm\bin\Debug\OxyPlot.dll
+C:\Users\ahayd\Desktop\dönem 6\Yapay Zeka\genetics_algorithm\genetics_algorithm\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\ahayd\Desktop\dönem 6\Yapay Zeka\genetics_algorithm\genetics_algorithm\bin\Debug\OxyPlot.xml
+C:\Users\ahayd\Desktop\dönem 6\Yapay Zeka\genetics_algorithm\genetics_algorithm\bin\Debug\OxyPlot.WindowsForms.xml
+F:\ChromeDownload\genetics_algorithm\genetics_algorithm\bin\Debug\genetics_algorithm.exe.config
+F:\ChromeDownload\genetics_algorithm\genetics_algorithm\bin\Debug\genetics_algorithm.exe
+F:\ChromeDownload\genetics_algorithm\genetics_algorithm\bin\Debug\genetics_algorithm.pdb
+F:\ChromeDownload\genetics_algorithm\genetics_algorithm\bin\Debug\MathNet.Numerics.dll
+F:\ChromeDownload\genetics_algorithm\genetics_algorithm\bin\Debug\OxyPlot.dll
+F:\ChromeDownload\genetics_algorithm\genetics_algorithm\bin\Debug\OxyPlot.WindowsForms.dll
+F:\ChromeDownload\genetics_algorithm\genetics_algorithm\bin\Debug\System.ValueTuple.dll
+F:\ChromeDownload\genetics_algorithm\genetics_algorithm\bin\Debug\MathNet.Numerics.xml
+F:\ChromeDownload\genetics_algorithm\genetics_algorithm\bin\Debug\OxyPlot.xml
+F:\ChromeDownload\genetics_algorithm\genetics_algorithm\bin\Debug\OxyPlot.WindowsForms.xml
+F:\ChromeDownload\genetics_algorithm\genetics_algorithm\bin\Debug\System.ValueTuple.xml
+F:\ChromeDownload\genetics_algorithm\genetics_algorithm\obj\Debug\genetics_algorithm.csproj.AssemblyReference.cache
+F:\ChromeDownload\genetics_algorithm\genetics_algorithm\obj\Debug\genetics_algorithm.Form1.resources
+F:\ChromeDownload\genetics_algorithm\genetics_algorithm\obj\Debug\genetics_algorithm.Properties.Resources.resources
+F:\ChromeDownload\genetics_algorithm\genetics_algorithm\obj\Debug\genetics_algorithm.csproj.GenerateResource.cache
+F:\ChromeDownload\genetics_algorithm\genetics_algorithm\obj\Debug\genetics_algorithm.csproj.CoreCompileInputs.cache
+F:\ChromeDownload\genetics_algorithm\genetics_algorithm\obj\Debug\genetics_algorithm.csproj.CopyComplete
+F:\ChromeDownload\genetics_algorithm\genetics_algorithm\obj\Debug\genetics_algorithm.exe
+F:\ChromeDownload\genetics_algorithm\genetics_algorithm\obj\Debug\genetics_algorithm.pdb
