@@ -1,6 +1,8 @@
 # Genetic Algorithm Application
 
-This project is a Windows Forms (WinForms) application that solves an optimization problem using a genetic algorithm (GA). Users can configure the algorithm's parameters, run the solution process, and analyze the results through graphical outputs.
+Description
+This project implements a Genetic Algorithm (GA) for solving optimization problems. It features a user-friendly graphical interface where users can configure algorithm parameters such as population size, crossover rate, and mutation rate, and view the results in real time through a convergence graph and detailed outputs. The application leverages OxyPlot for visualizing fitness progress and provides insights into the optimization process.
+
 
 ---
 
