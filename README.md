@@ -20,7 +20,7 @@ This project is a Windows Forms (WinForms) application that solves an optimizati
 
 Below is a screenshot of the application:
 
-![Application Screenshot](./images/screenshot.png)
+![Application Screenshot](./images/screenshot-1.png)
 
 - **Parameter Input Fields**: Configure algorithm parameters.
 - **Solve Button**: Starts the genetic algorithm and displays results.
